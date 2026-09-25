@@ -17,10 +17,55 @@ export const actividades = [
   },
     {
     id: 3,
-    nombre: "Programación",
-    categoria: "Sufrimiento",
+    nombre: "Programación Básica",
+    categoria: "Informática",
+    descripcion: "Sesión práctica de programación.",
+    precio: 0,
+    cupos: 7
+  }
+  ,
+    {
+    id: 4,
+    nombre: "Programación Intermedia",
+    categoria: "Informática",
+    descripcion: "Sesión práctica de programación.",
+    precio: 0,
+    cupos: 8
+  }
+    ,
+    {
+    id: 5,
+    nombre: "Taller de Batería",
+    categoria: "Música",
     descripcion: "Sesión práctica de programación.",
     precio: 12000,
-    cupos: 4
+    cupos: 10
+  }
+      ,
+    {
+    id: 6,
+    nombre: "Natación Básica",
+    categoria: "Deportes",
+    descripcion: "Sesión práctica de programación.",
+    precio: 12000,
+    cupos: 10
+  }
+        ,
+    {
+    id: 7,
+    nombre: "Futbol Básico",
+    categoria: "Deportes",
+    descripcion: "Sesión práctica de programación.",
+    precio: 12000,
+    cupos: 10
+  }
+          ,
+    {
+    id: 8,
+    nombre: "Cine",
+    categoria: "Artes visuales",
+    descripcion: "Sesión práctica de programación.",
+    precio: 12000,
+    cupos: 10
   }
 ];
